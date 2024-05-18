@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1716049226 source:c:\users\user\desktop\Си\lab23\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+	"operations.h"
+	"operations_raws.h"
+	"gauss.h"
+	"exponent.h"
+
+1715989079 c:\users\user\desktop\Си\lab23\matrix.h
+
+1716024346 source:c:\users\user\desktop\Си\lab23\matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"matrix.h"
+
+1715988020 c:\users\user\desktop\Си\lab23\matrix_2.h
+
+1715988020 source:c:\users\user\desktop\Си\lab23\matrix(2).c
+	<stdio.h>
+	<stdlib.h>
+	"matrix_2.h"
+
+1716048546 source:c:\users\user\desktop\Си\lab23\operations.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.h"
+
+1715993646 c:\users\user\desktop\Си\lab23\operations.h
+	"matrix.h"
+	"math.h"
+
+1716024628 c:\users\user\desktop\Си\lab23\operations_raws.h
+	"matrix.h"
+	"math.h"
+
+1716040736 source:c:\users\user\desktop\Си\lab23\operations_raws.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"operations_raws.h"
+
+1716049520 source:c:\users\user\desktop\Си\lab23\exponent.c
+	<stdio.h>
+	<stdlib.h>
+	"exponent.h"
+
+1716050446 c:\users\user\desktop\Си\lab23\exponent.h
+	"matrix.h"
+	"math.h"
+	"operations_raws.h"
+	"operations.h"
+
+1716049520 source:c:\users\user\desktop\Си\lab23\gauss.c
+	<stdio.h>
+	<stdlib.h>
+	"gauss.h"
+
+1716044212 c:\users\user\desktop\Си\lab23\gauss.h
+	"matrix.h"
+	"operations_raws.h"
+	"operations.h"
+
